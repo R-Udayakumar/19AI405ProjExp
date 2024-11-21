@@ -22,7 +22,7 @@ Developed by Udayakumar R
 Reg No: 212222230163
 
 ```
-```
+```python
 M = 9
 def puzzle(a):
     for i in range(M):
